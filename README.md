@@ -1,1 +1,2 @@
 # TEA
+Here i am going to help you learn how to easily make tea without any problems or difficulties. I hope after reading this, you will become a master at making tea. Please read the "Ingredients" file to know what all you will need and "recipe" file to know about the steps.
